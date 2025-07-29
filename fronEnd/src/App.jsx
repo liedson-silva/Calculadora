@@ -40,7 +40,7 @@ function App() {
       const op = opMap[parsed.op];
 
       try {
-        const res = await fetch(`https://calculadora-seven-lime.vercel.app/calc?n1=${parsed.n1}&n2=${parsed.n2}&op=${op}`);
+        const res = await fetch(`https://calculadora-mu-nine.vercel.app/calc?n1=${parsed.n1}&n2=${parsed.n2}&op=${op}`);
         const text = await res.text();
 
         if (!isNaN(text)) {
