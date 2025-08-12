@@ -1,13 +1,12 @@
-# Cadastro de Usuário
+# Calculadora
 
 ## Descrição
 
-Projeto de cadastro de usuário, onde é possível inserir informações como nome, idade e email. A aplicação possui integração com back-end e utiliza banco de dados para salvar as informações.
+Projeto de uma calculadora que realiza soma, subtração, multiplicação e divisão. O front-end permite a entrada dos números e seleção das operações, enquanto o back-end processa os cálculos e retorna os resultados.
 
 ## Tecnologias
 
 - NodeJs
-- MongoDB
 - ReactJs
 
 ## Como usar
