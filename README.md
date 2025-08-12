@@ -12,7 +12,7 @@ Projeto de uma calculadora que realiza soma, subtração, multiplicação e divi
 ## 🌍 Acesse o projeto
 
 Você pode acessar o projeto online clicando no link abaixo:  
-👉  [Cadastro de Usuário](https://calculadora-9rzc.vercel.app)
+👉  [Calculadora](https://calculadora-9rzc.vercel.app)
 
 ## Imagem do projeto
    
